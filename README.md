@@ -1,2 +1,2 @@
 # practice 
-what is thus
+# this is my first day in Github
